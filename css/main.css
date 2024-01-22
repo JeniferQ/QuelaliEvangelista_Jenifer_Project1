@@ -44,6 +44,8 @@ article p {
     line-height: 25px;
     letter-spacing: 0;
     color: white;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 article p span {
